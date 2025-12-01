@@ -1,4 +1,4 @@
-# Remote-Discord-Keylogger
+# Remote-Keylogger
 ## Summary
 Create a remote keylogger in Python that is disguised as a photo. After the photo, it opens, takes a screenshot of the user's computer screen, takes a picture using the user's camera, and sends both images to a Discord Serve, the keylogger will run for 30 mins.
 
